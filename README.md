@@ -27,12 +27,5 @@ I spend most of my time building with **Laravel**, **Livewire**, and **TailwindC
 
 ---
 
-## 🌱 About this Repo
-
-This repository isn’t just code — it’s a sandbox, a sketchbook, a digital playground.  
-Expect experiments, prototypes, and the occasional stroke of brilliance (or madness).  
-
----
-
 ### 📬 Let’s Connect
 If you stumbled here and want to chat about Laravel wizardry, SaaS adventures, or just geek out about clean code — you know where to find me 👆
