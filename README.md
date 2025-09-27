@@ -1,6 +1,5 @@
-# 👋 Welcome to Emil’s Special Repository
+# 👋 Welcome
 
-This is my little corner of the internet where I gather the projects, ideas, and experiments that keep me up at night (in the best way possible).  
 I spend most of my time building with **Laravel**, **Livewire**, and **TailwindCSS** — mixing backend logic with frontend magic ✨.
 
 ---
